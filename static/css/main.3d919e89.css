@@ -1,0 +1,2 @@
+.App{display:flex;font-family:Arial Narrow;justify-content:center;text-align:center}*{font-size:large}.list{grid-row-gap:30px;display:grid;grid-auto-flow:row;grid-template-columns:220px;grid-template-rows:45px;margin-bottom:100px;margin-top:50px;row-gap:30px}.task{display:flex}.addTask{position:fixed}.task button{font-weight:120;height:45px;margin-left:10px;width:45px}.task h2{font-size:40px;font-weight:70;margin:0}
+/*# sourceMappingURL=main.3d919e89.css.map*/
