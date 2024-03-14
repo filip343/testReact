@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-family: 'Arial Narrow';
+  
+}
+*{
+  font-size: large;
+}
+.list{ 
+  display: grid;
+  grid-template-columns: 220px;
+  grid-template-rows: 45px;
+  grid-auto-flow: row;
+  row-gap: 30px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.task{
+  display: flex;
+  
+}
+
+.addTask{
+  position: fixed;
+}
+.task button{
+  height: 45px;
+  width: 45px;
+  margin-left: 10px;
+  font-weight: 120;
+}
+.task h2{
+  
+  font-weight: 70;
+  margin: 0px;
+  font-size: 40px;
+}
+
